@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Habiba</h1>
+<h1 align="center">Hi , I'm Habiba</h1>
 <h3 align="center">Full-Stack Learner | Data Science + Web Development</h3>
 
-- 🔭 I’m currently working on **Symfony school project**
 
-- 🌱 I’m currently learning **Symfony**
+-  I’m currently learning **Symfony**
 
 - 📫 How to reach me **habibabenkemouche@gmail.com**
 
