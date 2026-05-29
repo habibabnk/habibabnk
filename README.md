@@ -5,7 +5,7 @@ Ingénieure en formation — Data Science, Développement Web, IA appliquée
 
 ---
 
-## 🚀 Projets phares
+##  Projets phares
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
@@ -15,7 +15,7 @@ Ingénieure en formation — Data Science, Développement Web, IA appliquée
 
 ---
 
-## 🛠️ Compétences
+##  Compétences
 
 **Dev** · Python · Flask · React.js · JavaScript · SQL · Symfony  
 **Data / ML** · Pandas · scikit-learn · Q-learning · Random Forest  
